@@ -40,6 +40,10 @@ key in the dictionary.
 
 	1) Unicodecsv (Just more versatile than csv I guess)
 	2) pymongo
+	
+	# sudo easy_install pip==1.4.1
+  	# sudo pip install unicodecsv
+	# sudo pip install pymongo
 
 ###To run mongoexportcsv : 
 
